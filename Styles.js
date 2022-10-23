@@ -57,8 +57,8 @@ export const styles = StyleSheet.create({
       titleScreen: {
         flex: 1,
         backgroundColor: '#C1D3E5',
-        alignItems: 'left',
-        justifyContent: 'center',
+        alignItems: 'center',
+        justifyContent: 'left',
         padding: 25,
         display: 'flex',
         flexDirection: 'row',

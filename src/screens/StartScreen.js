@@ -29,7 +29,7 @@ export const StartScreen = () => {
         <SafeAreaView style={styles.titleScreen}>
 
         
-            <View styles={styles.containerRow}>
+            <View styles={styles.container}>
                 <View>
                     <Text style={{ fontFamily: 'Nunito_400Regular', fontSize: 40, color: 'white' }}>scröll</Text>
                 </View>
